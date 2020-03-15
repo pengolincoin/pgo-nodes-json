@@ -1,6 +1,6 @@
-# Xenium Nodes JSON
+# Avrio Nodes JSON
 
-This is the collection of public nodes for Xenium. Feel free to add your node.
+This is the collection of public nodes for Avrio. Feel free to add your node.
 
 # Adding nodes
 
