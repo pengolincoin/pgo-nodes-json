@@ -1,37 +1,23 @@
 {
   "nodes": [  
     {
-        "name": "Waterdev",
-        "url": "git.jitbit.de",
-        "port": 32779,
+        "name": "vps",
+        "url": "78.46.222.91",
+        "port": 17897,
         "ssl": false,
         "cache": false
     },
     {
-        "name": "Lein Ad",
-        "url": "85.214.241.85",
-        "port": 32779,
+        "name": "dedi",
+        "url": "51.159.55.89",
+        "port": 17897,
         "ssl": false,
         "cache": false
     },
     {
-        "name": "Gabcraftia",
-        "url": "94.214.85.66",
-        "port": 32779,
-        "ssl": false,
-        "cache": false
-    },
-    {
-        "name": "MunchieHigh420 Public 1",
-        "url": "142.93.239.206",
-        "port": 32779,
-        "ssl": false,
-        "cache": false
-    },
-    {
-        "name": "MunchieHigh420 Public 2",
-        "url": "94.211.127.5",
-        "port": 32779,
+        "name": "clevery",
+        "url": "116.203.178.152",
+        "port": 17897,
         "ssl": false,
         "cache": false
     }
