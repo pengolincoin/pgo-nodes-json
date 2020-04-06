@@ -20,6 +20,13 @@
         "port": 17897,
         "ssl": false,
         "cache": false
+    },
+    {
+        "name": "ft4a",
+        "url": "116.203.254.18",
+        "port": 17897,
+        "ssl": false,
+        "cache": false
     }
   ]
 }
