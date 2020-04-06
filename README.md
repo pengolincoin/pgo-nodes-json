@@ -1,6 +1,6 @@
-# Avrio Nodes JSON
+# PengolinCoin [PGO] Nodes JSON
 
-This is the collection of public nodes for Avrio. Feel free to add your node.
+This is the collection of public nodes for PengolinCoin. Feel free to add your node.
 
 # Adding nodes
 
