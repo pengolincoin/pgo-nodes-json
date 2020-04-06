@@ -30,7 +30,7 @@
     },
     {
         "name": "fastpool",
-        "url": "https://fastpool.xyz",
+        "url": "fastpool.xyz",
         "port": 17897,
         "ssl": false,
         "cache": false
