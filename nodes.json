@@ -28,5 +28,12 @@
         "ssl": false,
         "cache": false
     }
+    {
+        "name": "fastpool",
+        "url": "https://fastpool.xyz",
+        "port": 17897,
+        "ssl": false,
+        "cache": false
+    }
   ]
 }
