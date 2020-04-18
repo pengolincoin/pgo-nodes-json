@@ -8,13 +8,6 @@
         "cache": false
     },
     {
-        "name": "dedi",
-        "url": "51.159.55.89",
-        "port": 17898,
-        "ssl": false,
-        "cache": false
-    },
-    {
         "name": "clevery",
         "url": "116.203.178.152",
         "port": 17898,
