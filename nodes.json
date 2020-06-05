@@ -1,25 +1,28 @@
 {
-  "nodes": [  
+  "nodes": [
     {
-        "name": "vps",
-        "url": "78.46.222.91",
-        "port": 17898,
-        "ssl": false,
-        "cache": false
+      "name": "vps",
+      "url": "78.46.222.91",
+      "port": 17898,
+      "ssl": false,
+      "fee": 0,
+      "online": true
     },
     {
-        "name": "clevery",
-        "url": "116.203.178.152",
-        "port": 17898,
-        "ssl": false,
-        "cache": false
+      "name": "clevery",
+      "url": "116.203.178.152",
+      "port": 17898,
+      "ssl": false,
+      "fee": 0,
+      "online": true
     },
     {
-        "name": "ft4a",
-        "url": "116.203.254.18",
-        "port": 17898,
-        "ssl": false,
-        "cache": false
+      "name": "ft4a",
+      "url": "116.203.254.18",
+      "port": 17898,
+      "ssl": false,
+      "fee": 0,
+      "online": true
     }
   ]
 }
