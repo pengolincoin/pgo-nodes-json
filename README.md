@@ -12,7 +12,7 @@ Add your nodes using a pull request here on GitHub. Your node entry should confi
     "url": "YOUR_NODES_URL",
     "port": "YOUR_NODES_P2P_PORT",
     "ssl": false,
-    "cache": false
+    "cache": false,
     "fee": 0,
     "online": true
 }
