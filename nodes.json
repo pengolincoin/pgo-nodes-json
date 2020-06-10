@@ -9,16 +9,16 @@
       "online": true
     },
     {
-      "name": "clevery",
-      "url": "116.203.178.152",
+      "name": "us",
+      "url": "157.245.253.29",
       "port": 17898,
       "ssl": false,
       "fee": 0,
       "online": true
     },
     {
-      "name": "ft4a",
-      "url": "116.203.254.18",
+      "name": "web",
+      "url": "116.203.178.152",
       "port": 17898,
       "ssl": false,
       "fee": 0,
